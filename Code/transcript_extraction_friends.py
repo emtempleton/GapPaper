@@ -176,6 +176,8 @@ for file in flist:
     summary.at[counter, 'median_gap_convo'] = np.median(data['gap_length'])
     summary.at[counter, 'mean_gap_speaker'] = np.mean(S1['gap_length'])
     summary.at[counter, 'median_gap_speaker'] = np.median(S1['gap_length'])
+    summary.at[counter, 'mean_gap_partner'] = np.mean(S2['gap_length'])
+    summary.at[counter, 'median_gap_partner'] = np.median(S2['gap_length'])
     
     counter = counter + 1
     
@@ -187,6 +189,8 @@ for file in flist:
     summary.at[counter, 'median_gap_convo'] = np.median(data['gap_length'])
     summary.at[counter, 'mean_gap_speaker'] = np.mean(S2['gap_length'])
     summary.at[counter, 'median_gap_speaker'] = np.median(S2['gap_length'])
+    summary.at[counter, 'mean_gap_partner'] = np.mean(S1['gap_length'])
+    summary.at[counter, 'median_gap_partner'] = np.median(S1['gap_length'])
 
     
     counter = counter + 1
