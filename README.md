@@ -2,7 +2,7 @@
 
 All materials needed to reproduced results in:
 
-> Clicking in conversation: Short gaps between turns signal connection  
+> Fast response times signal social connection in conversation  
 > Emma M. Templeton, Luke J. Chang, Elizabeth A. Reynolds, Marie D. Cone LeBeaumont and Thalia P. Wheatley
 
 **Data** includes unmanipulated data files
