@@ -2,8 +2,9 @@
 
 All materials needed to reproduced results in:
 
-> Fast response times signal social connection in conversation  
-> Emma M. Templeton, Luke J. Chang, Elizabeth A. Reynolds, Marie D. Cone LeBeaumont and Thalia P. Wheatley
+> Templeton, E., Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (2022). Fast 
+response times signal social connection in conversation. *Proceedings of the National Academy of 
+Sciences*
 
 **Data** includes unmanipulated data files
 
